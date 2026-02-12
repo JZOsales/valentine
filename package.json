@@ -1,0 +1,10 @@
+{
+  "name": "valentine-page",
+  "version": "1.0.0",
+  "description": "Valentine's Day interactive page",
+  "main": "index.html",
+  "scripts": {
+    "dev": "echo 'Open index.html in browser'",
+    "build": "echo 'No build needed'"
+  }
+}
